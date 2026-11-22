@@ -1,0 +1,2 @@
+cls
+python Floor_Plan_Editor.py
